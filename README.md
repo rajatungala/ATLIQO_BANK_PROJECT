@@ -1,30 +1,4 @@
 
-### Placement of Images in the README
-
-#### Image 1: `analysis.png` (Visualizations of Age Groups, Income, Credit Metrics, Payment Types, and Product Categories)
-This image includes five visualizations that are directly tied to **Phase 1: Target Market Identification**:
-- Age Groups Distribution (pie chart)
-- Average Annual Income by Age Group (bar chart)
-- Average Max Credit Limit by Age Group (bar chart)
-- Average Credit Score by Age Group (bar chart)
-- Distribution of Payment Types and Product Categories by Age Groups (countplots)
-
-**Placement**: This image should be placed in the **"Data and Analysis"** section, specifically under the **"Phase 1: Target Market Identification"** subsection, after the description of the analysis and before summarizing the findings. It visually supports the identification of the 18-25 age group as the target market by showing their demographics, financial metrics, and preferences.
-
-#### Image 2: `alternative_hypothesis.png` (Description of Alternative Hypothesis for Statistical Testing)
-This image explains the alternative hypothesis options for the two-sample Z-test used in the A/B testing phase:
-- Options for the alternative hypothesis (`two-sided`, `larger`, `smaller`) with their definitions.
-
-**Placement**: This image should be placed in the **"Data and Analysis"** section, specifically under the **"Phase 2: A/B Testing & Validation"** subsection, right after the description of the statistical analysis (Z-test) and before summarizing the results. It provides clarity on the statistical method used to validate the new credit card's impact, making the methodology more transparent for readers.
-
-
-
-### Updated README File with Image Placements
-
-Below is the updated README file with placeholders indicating where each image should be inserted. The content has been adjusted slightly to ensure smooth integration of the images.
-
-
-
 # AtliQo Bank Credit Card Launch Project
 
 ## Project Overview
